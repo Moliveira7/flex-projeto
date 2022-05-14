@@ -111,10 +111,13 @@ header .menu {
 .list-servicos {
   display: flex;
   justify-content: space-around;
+  margin-bottom: 5px;
 }
-.list-servicos .item-servico {
+
+.list-servicos .item-servicos {
   text-align: center;
 }
+
 .item-servicos a {
   width: 220px;
   background-color: #fff;
